@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """Email processor. 0.1
 
 Usage:
@@ -55,7 +56,7 @@ def main():
         raise IOError("Path %s not found" % output_path)
 
     report = processor(input_file)
-    print report
+    print(report)
 
 
 if __name__ == '__main__':
