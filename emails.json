@@ -1,0 +1,898 @@
+[
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 19586,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1169,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "b815bc08-1886-9d8a-dd86-2c7c711730fd",
+        "id": 451208,
+        "imageBytes": 208315,
+        "mobileHeight": 1169,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1444342439000,
+        "subject": "Our sweetest-ever sale ends soon: Shop fast!",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 280,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20054,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1875,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "1721cf34-3b53-9587-bb8c-c97454a450c6",
+        "id": 450012,
+        "imageBytes": 317987,
+        "mobileHeight": 1875,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1444302874000,
+        "subject": "Introducing the new patio pant for fall!",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 26592,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 3086,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "3b576194-d59f-6576-62fb-fa6609573e56",
+        "id": 448558,
+        "imageBytes": 470678,
+        "mobileHeight": 3086,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1444216871000,
+        "subject": "Your favorite new coat, found",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 19796,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1169,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "8197206c-ae9d-aec8-44f3-521ffb3a9233",
+        "id": 447091,
+        "imageBytes": 208315,
+        "mobileHeight": 1169,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1444131838000,
+        "subject": "Our Even Sweeter Sale is on - and our Cardmembers get the sweetest sale of all",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 392,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20318,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1071,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "c74a3403-9e05-547e-1d85-41fb8f34b259",
+        "id": 445750,
+        "imageBytes": 158530,
+        "mobileHeight": 1071,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1444048850000,
+        "subject": "These amazing sale events end tonight (don't miss them!)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 420,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 26352,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 3553,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "33dd61da-7017-cd06-e264-80240163c606",
+        "id": 444668,
+        "imageBytes": 510781,
+        "mobileHeight": 3553,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443956704000,
+        "subject": "Proof that your work clothes can be your favorite clothes (plus, 25% off!)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 378,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20617,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1135,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "890afdc2-252f-0d56-15a7-d69088c70dca",
+        "id": 443866,
+        "imageBytes": 164151,
+        "mobileHeight": 1135,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443873610000,
+        "subject": "Click here to see why today's going to be amazing",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 294,
+        "altWidth": 800,
+        "animated": true,
+        "bodyBytes": 17536,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1268,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "ea179ae3-a1fc-efab-8648-7e97abcff034",
+        "id": 442525,
+        "imageBytes": 479048,
+        "mobileHeight": 1268,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443786237000,
+        "subject": "Day 5 is BIG",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 266,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 17955,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1147,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "b3318dbd-0d4a-15f6-1303-4af9bfbe299b",
+        "id": 440951,
+        "imageBytes": 192487,
+        "mobileHeight": 1147,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443700563000,
+        "subject": "Ready for Day 4? Today's reveal is...",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 490,
+        "altWidth": 800,
+        "animated": true,
+        "bodyBytes": 20671,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1475,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "b351f048-7549-0037-f9a0-596317ea91ab",
+        "id": 439471,
+        "imageBytes": 166633,
+        "mobileHeight": 1475,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443614689000,
+        "subject": "Day 3's reveal: new arrivals and...",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 378,
+        "altWidth": 800,
+        "animated": true,
+        "bodyBytes": 20335,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1318,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "f4ccd78b-4002-837b-273c-17a611042a0b",
+        "id": 437997,
+        "imageBytes": 706661,
+        "mobileHeight": 1318,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443527410000,
+        "subject": "This week = awesome. Your 2nd surprise sale is...",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 448,
+        "altWidth": 800,
+        "animated": true,
+        "bodyBytes": 21843,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1333,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "04461df1-36ae-de97-1c66-9844e027ad55",
+        "id": 436526,
+        "imageBytes": 704625,
+        "mobileHeight": 1333,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443441452000,
+        "subject": "Our first of five surprise sales starts now (you only have 24 hours to shop!)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 420,
+        "altWidth": 800,
+        "animated": true,
+        "bodyBytes": 20700,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1158,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "db3eb9bf-f9fe-b70c-3fb9-d1015f1621ca",
+        "id": 435527,
+        "imageBytes": 161212,
+        "mobileHeight": 1158,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443354035000,
+        "subject": "Fall started four days ago. Shop for it with 25% off.",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 280,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 19353,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1402,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "cc5e4dc2-07f5-c524-73f3-ce205a7435e7",
+        "id": 434620,
+        "imageBytes": 311541,
+        "mobileHeight": 1402,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443265574000,
+        "subject": "We love a good turtleneck...",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 280,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 21514,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 516,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "f40b5692-d273-fab8-be1c-03c2164a0af2",
+        "id": 433239,
+        "imageBytes": 373832,
+        "mobileHeight": 516,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443179706000,
+        "subject": "Introducing the Campbell blazer in tweed",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": true,
+        "bodyBytes": 19584,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 859,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "344a85a9-3c7d-9e1e-612a-f7ef4e489abe",
+        "id": 431731,
+        "imageBytes": 195547,
+        "mobileHeight": 859,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443095355000,
+        "subject": "This sale event is in season: 25% off select fall styles starts now",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 546,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 22537,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1014,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "f868659c-16f0-5199-fcae-eba0feb9a25b",
+        "id": 431247,
+        "imageBytes": 269972,
+        "mobileHeight": 1014,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443041527000,
+        "subject": "Don't forget to check your mail! (Free shipping ends tonight.)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 546,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 22705,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1014,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "56e7e6cf-ca9b-5a1e-2ea8-e1dd50701e5b",
+        "id": 430306,
+        "imageBytes": 269972,
+        "mobileHeight": 1014,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1443009148000,
+        "subject": "Today's mail is amazing: free shipping and new styles added to sale",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 336,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 23340,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 869,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "e3998209-d16d-7ca7-9eb1-6fc37227bb6a",
+        "id": 428726,
+        "imageBytes": 849486,
+        "mobileHeight": 869,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442920212000,
+        "subject": "Introducing the Always List at jcrew.com",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 462,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20449,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 565,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "fb1cdefe-1d0a-5287-b9f6-ca5099b97062",
+        "id": 427329,
+        "imageBytes": 232097,
+        "mobileHeight": 565,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442836219000,
+        "subject": "The best kind of mail = sale mail",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 350,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 22562,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 549,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "9a2c0992-96df-b00a-0659-4dfaa37e7a7e",
+        "id": 426237,
+        "imageBytes": 525912,
+        "mobileHeight": 549,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442746910000,
+        "subject": "The things we want right now: classic blazers, fun heels, colorful jewelry and more. Plus, enjoy 25% off.",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 350,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 35544,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 396,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "cac631af-4d77-171a-b33a-856da525c8c6",
+        "id": 425422,
+        "imageBytes": 550564,
+        "mobileHeight": 396,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442661073000,
+        "subject": "Looks we love...for fall! Plus, enjoy 25% off your purchase.",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 350,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 18969,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 851,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "a5c46fc7-a37e-d178-2c12-b5b233fdf305",
+        "id": 421071,
+        "imageBytes": 218531,
+        "mobileHeight": 851,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442577490000,
+        "subject": "Now in stores: 25% off your purchase. Shop new fall clothes today...",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 490,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 23816,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 550,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "76f2bedf-0860-4f26-025c-f02d3fcc865b",
+        "id": 419420,
+        "imageBytes": 554493,
+        "mobileHeight": 550,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442488178000,
+        "subject": "Fall @ jcrew.com: the Always List, new looks we love, the best shoes - and 25% off",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 322,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 18585,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 1080,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "2b2cd5b5-fbb5-9140-8f6e-71557e0d9cee",
+        "id": 417981,
+        "imageBytes": 194872,
+        "mobileHeight": 1080,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442404324000,
+        "subject": "Ready for fall?! 25% off your purchase starts now.",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 22137,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 560,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "efafeab7-c81a-0c64-cf8f-a9aa4150e4cc",
+        "id": 416427,
+        "imageBytes": 398581,
+        "mobileHeight": 560,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442315029000,
+        "subject": "New season, new arrivals...time to shop for fall (with free shipping & 25% off)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20318,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 660,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "142a7054-483c-fa15-12f7-3207a3923022",
+        "id": 415128,
+        "imageBytes": 224706,
+        "mobileHeight": 660,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442231490000,
+        "subject": "Don't forget to shop 25% off select fall must-haves (ends tonight)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 196,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 16308,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 668,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "8b1121b5-d7fc-5170-7c96-b7627091307c",
+        "id": 414784,
+        "imageBytes": 173630,
+        "mobileHeight": 668,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442182957000,
+        "subject": "The No. 1 reason to stop by a store...new arrivals!",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 364,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20076,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 572,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "ccb7a0e4-cdf6-1077-41fd-61b234dad38e",
+        "id": 414113,
+        "imageBytes": 403376,
+        "mobileHeight": 572,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442141920000,
+        "subject": "\"The best vest ever. Period.\"",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 294,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 21838,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 516,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "870efe9d-c98b-f4bf-e632-b336ef33bc61",
+        "id": 413254,
+        "imageBytes": 433353,
+        "mobileHeight": 516,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1442055257000,
+        "subject": "The wedding email you've been waiting for",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 280,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 19940,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 460,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "f3189f21-1298-2a6e-8908-c7e2779f9fb0",
+        "id": 411904,
+        "imageBytes": 389219,
+        "mobileHeight": 460,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1441969728000,
+        "subject": "The blazer that people ask for by name (shop it, in stores & online)",
+        "visible": true
+    },
+    {
+        "addressId": 144,
+        "altHeight": 406,
+        "altWidth": 800,
+        "animated": false,
+        "bodyBytes": 20307,
+        "companyId": 144,
+        "companyName": "J Crew",
+        "desktopHeight": 778,
+        "desktopWidth": 580,
+        "from": [
+            {
+                "address": "jcrew@email.jcrew.com",
+                "name": "J.Crew"
+            }
+        ],
+        "guid": "7303e6fe-c98e-c44e-a5a1-f063fee01863",
+        "id": 410470,
+        "imageBytes": 273905,
+        "mobileHeight": 778,
+        "mobileOptimized": false,
+        "mobileWidth": 580,
+        "processed": true,
+        "replyTo": null,
+        "sentAt": 1441887649000,
+        "subject": "It's the end of you-know-what. Here's how to cope...",
+        "visible": true
+    }
+]
